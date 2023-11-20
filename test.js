@@ -3,7 +3,7 @@ var ProductNames1;
 
     ProductNames1={}
  
-    ProductNames1["product1"] = "Laptop";
+    ProductNames1["product1"] = "Laptops";
 
     ProductNames1["product2"] = "Mouse";
 
